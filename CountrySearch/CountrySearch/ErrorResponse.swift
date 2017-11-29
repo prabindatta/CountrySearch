@@ -1,9 +1,9 @@
 //
 //  ErrorResponse.swift
-//  Activations
+//  CountrySearch
 //
-//  Created by David Cheong on 12/01/2015.
-//  Copyright (c) 2015 NBN Co. All rights reserved.
+//  Created by Prabin K Datta on 24/11/17.
+//  Copyright © 2017 Prabin K Datta. All rights reserved.
 //
 
 import Foundation
